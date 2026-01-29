@@ -15,9 +15,9 @@ function Footer() {
       <div className="flex flex-col items-center md:items-start">
           <div className="flex items-center gap-3 mb-4">
             <div className="w-10 h-10 rounded-full bg-lime-400 flex items-center justify-center font-bold text-black">
-              O
+              S
             </div>
-            <h3 className="text-xl font-bold">Oliver</h3>
+            <h3 className="text-xl font-bold">Sejal</h3>
           </div>
 
           <p className="text-gray-400 text-sm leading-relaxed max-w-sm">
@@ -55,7 +55,7 @@ function Footer() {
 
       {/* BOTTOM BAR */}
       <div className="border-t border-white/10 py-6 text-center text-sm text-gray-400">
-        © {new Date().getFullYear()} Oliver. All rights reserved.
+        © {new Date().getFullYear()} Sejal. All rights reserved.
       </div>
 
     </footer>

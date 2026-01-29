@@ -1,4 +1,4 @@
-import Picture from "../../assets/images/About image.png";
+import Picture from "../../assets/images/Home-image/About image.png";
 
 function About() {
   return (
@@ -30,7 +30,7 @@ function About() {
           </span>
 
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Who is <span className="text-lime-400">Oliver Scott?</span>
+            Who is <span className="text-lime-400">Sejal gamit ?</span>
           </h2>
 
           <p className="text-gray-400 leading-relaxed mb-10">

@@ -1,4 +1,4 @@
- import Profile from "../../assets/images/Hero image.png"
+import Profile from "../../assets/images/Home-image/Hero image.png"
 import { FaSnowflake } from "react-icons/fa";
  
 
